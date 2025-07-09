@@ -5,7 +5,7 @@ This repository contains only the **ImGui binding for LuaJIT**.
 ## Overview
 
 This project provides LuaJIT bindings for the Dear ImGui library, enabling you to write ImGui-based user interfaces using LuaJIT scripts.  
-**Note:** This repository includes only the binding layer and does not provide the core ImGui library itself or any backend/platform implementations.
+**Note:** This repository includes only the binding layer and does not provide the core ImGui library itself or any backend/platform implementations. This library is distributed under a proprietary license. For any use in your project, except for personal use for creating Lua Scripts, your repository will be deleted upon request DMCA.
 
 ## Usage
 
@@ -47,4 +47,4 @@ If you have any questions, ideas, or want to get in touch, please contact me:
 
 ---
 
-Happy coding! 🎉
+Happy use! 🎉
