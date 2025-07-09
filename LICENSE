@@ -1,6 +1,36 @@
-MIT License
+Proprietary Software License
+============================
 
-Copyright (c) 2025 GrafinyaZadefala
+Copyright (c) 2025 DobruiKola
+All Rights Reserved.
+
+This software is licensed for **personal, non-commercial use only**.
+You may **not** copy, distribute, modify, sublicense, reverse-engineer, or use this software
+in any commercial, educational, or organizational environment.
+
+You are only permitted to use this software on your own devices, for private use.
+
+Commercial use, redistribution (with or without modifications), and integration
+into any third-party software is **strictly prohibited** without prior written consent
+from the author, DobruiKola.
+
+Use of this software implies full acceptance of this license.
+
+---
+
+Third-party components used in this project:
+
+• Dear ImGui — https://github.com/ocornut/imgui  
+  Licensed under the MIT License (included below)
+
+• sol2 — https://github.com/ThePhD/sol2  
+  Licensed under the MIT License (included below)
+
+---
+
+The MIT License (MIT)
+
+Copyright (c) 2014-2025 Omar Cornut
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +49,27 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+The MIT License (MIT)
+
+Copyright (c) 2013-2022 Rapptz, ThePhD, and contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
